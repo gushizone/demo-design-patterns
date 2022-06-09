@@ -1,4 +1,4 @@
-package tk.gushizone.patterns.clazz;
+package tk.gushizone.design.uml.clazz;
 
 /**
  * @author gushizone@gmail.com

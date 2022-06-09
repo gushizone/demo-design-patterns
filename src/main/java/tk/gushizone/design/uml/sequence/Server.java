@@ -1,4 +1,4 @@
-package tk.gushizone.patterns.sequence;
+package tk.gushizone.design.uml.sequence;
 
 /**
  * @author gushizone@gmail.com
